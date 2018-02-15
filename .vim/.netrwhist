@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/bermic30/os161/user/my-testbin/time'
+let g:netrw_dirhist_2='/home/bermic30/os161/user/my-testbin/hell'
+let g:netrw_dirhist_3='/home/bermic30/os161/kern/syscall'
+let g:netrw_dirhist_4='/home/bermic30/os161/kern/include'
+let g:netrw_dirhist_5='/home/bermic30/os161/user/include'
+let g:netrw_dirhist_6='/home/bermic30/os161/kern/test'
+let g:netrw_dirhist_7='/home/bermic30/os161/kern/lib'
+let g:netrw_dirhist_8='/home/bermic30/os161/kern/syscall'
+let g:netrw_dirhist_9='/home/bermic30/os161/kern/proc'
